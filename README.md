@@ -45,7 +45,7 @@ O Design da aplicação foi criado de acordo com o tema, visando a melhor usabil
 
 ## Links úteis 📌
 
-A aplicação esta repleta de comentários que vão te auxiliar a entender melhor seu funcionamento, porém se ainda tiver dúvidas do seu funcionamento veja os artigos do professor **José Carlos Macoratti** utilizados como base para o desenvolvimento do projeto.
+A aplicação esta repleta de comentários que vão te auxiliar a entender melhor seu funcionamento, porém se ainda tiver dúvidas veja os artigos do professor **José Carlos Macoratti** utilizados como base para o desenvolvimento do projeto.
 
 [Explicação da Aplicação Cliente](http://www.macoratti.net/11/08/c_chat1.htm)
 
