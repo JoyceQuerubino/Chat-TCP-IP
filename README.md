@@ -1,6 +1,6 @@
 # Chat TCP/IP
 
-## 📚  Sobre
+## Sobre
 
 Este projeto é um chat para comunicação de diversos usuários através de uma conexão local utilizando o **protocolo TCP/IP**. Ele foi desenvolvido conjuntamente com meu colega **Luiz Guilherme** e conforme o tema do trabalho da faculdade UNIP do curso de Ciência da Computação, que definia a aplicação para comunicação de servidores públicos responsáveis pelos cuidados do Rio Tiête.   
 
@@ -16,13 +16,13 @@ Este projeto é um chat para comunicação de diversos usuários através de uma
     <img src="public/Servidor.png">
 </h1>
 
-## 💻Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Linguagem C# ;
 - Bibliotecas; 
 - Visual Studio 2019;
 
-## 🚀  Funcionamento
+## Funcionamento
 
 Para que seja possível a troca de informações, são necessárias duas aplicações: o ‘cliente’ cuja finalidade é se conectar ao servidor para enviar e receber mensagens, e um ‘servidor’ responsável por realizar as conexões e armazena-las em uma ‘hash table’, a qual vai distribuir as mensagens para os usuários.
 
@@ -39,11 +39,11 @@ Para que seja possível a troca de informações, são necessárias duas aplica�
 
 Obs.: Não insira um nome que já foi utilizado anteriormente e não insira a palavra 'Administrador' como nome. 
 
-## 🎨  Design
+## Design
 
 O Design da aplicação foi criado de acordo com o tema, visando a melhor usabilidade do usuário e todas as imagens utilizadas foram de autoria própria, exceto o ícone do servidor. 
 
-## 📌  Links úteis
+## Links úteis
 
 A aplicação esta repleta de comentários que vão te auxiliar a entender melhor seu funcionamento, porém se ainda tiver dúvidas do seu funcionamento veja os artigos do professor **José Carlos Macoratti** utilizados como base para o desenvolvimento do projeto.
 
