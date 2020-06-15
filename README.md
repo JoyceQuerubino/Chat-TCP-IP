@@ -5,7 +5,7 @@
 Este projeto é um chat para comunicação de diversos usuários através de uma conexão local utilizando o **protocolo TCP/IP**. Ele foi desenvolvido conjuntamente com meu colega **Luiz Guilherme** e conforme o tema do trabalho da faculdade UNIP do curso de Ciência da Computação, que definia a aplicação para comunicação de servidores públicos responsáveis pelos cuidados do Rio Tiête.   
 
 
-<h4 align = center> Aplicação do Chat para econexão, envio e recebimento de mensagens. </h4>
+<h4 align = center> Aplicação do Chat para conexão, envio e recebimento de mensagens. </h4>
 <h1>
     <img src="public/Programa.png">
 </h1>
@@ -51,7 +51,7 @@ A aplicação esta repleta de comentários que vão te auxiliar a entender melho
 
 [Explicação da Aplicação Servidor](http://www.macoratti.net/11/08/c_chat2.htm)
 
-Espero que está aplicação possa te auxiliar com novas descobertas e aprendizagem 😊
+Espero que está aplicação possa te auxiliar com novas descobertas e aprendizagem.😊
 ___
 <h5 align = center>Desenvolvido por Joyce Querubino e Luiz Guilherme Machado Lourenço </h5>
 
