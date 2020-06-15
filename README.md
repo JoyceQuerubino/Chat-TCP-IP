@@ -1,4 +1,4 @@
-# Chat TCP/IP
+# Chat Cliente/Servidor com protocolo TCP/IP
 
 ## Sobre 📚
 
