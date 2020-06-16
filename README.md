@@ -29,7 +29,7 @@ Para que seja possível a troca de informações, são necessárias duas aplica�
 **Quando for testar:** 
 
 - Abra o aplicativo do servidor no diretório: Chat-TCP-IP\ChatServidor\ChatServidor\bin\Debug\ChatServidor
-- Insira o enreço de IP: **127.0.0.1**, resposável pela conexão LAN;
+- Insira o endereço de IP: **127.0.0.1**, resposável pela conexão LAN;
 - Insira uma porta, por exemplo: **60**;
 - Inicie o servidor; 
 - Abra duas vezes a aplicação do Chat no diretório: Chat-TCP-IP\ChatApp\bin\Debug\ChatApp. No caso, será uma aplicação aberta para cada usuário e como vamos testar a comunicação entre duas pessoas, abriremos duas interfaces; 
