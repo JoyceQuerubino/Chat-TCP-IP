@@ -1,5 +1,9 @@
 # Chat Cliente/Servidor com protocolo TCP/IP
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-querubino/)](https://www.linkedin.com/in/joyce-querubino/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joycequerubino5@gmail.com)](mailto:joycequerubino5@gmail.com)
+/steam/views/:fileId
+
 ## Sobre 📚
 
 Este projeto é um chat para comunicação de diversos usuários através de uma conexão local utilizando o **protocolo TCP/IP**. Ele foi desenvolvido conjuntamente com meu colega **Luiz Guilherme** e conforme o tema do trabalho da faculdade UNIP do curso de Ciência da Computação, que definia a aplicação para comunicação de servidores públicos responsáveis pelos cuidados do Rio Tiête.   
