@@ -1,7 +1,5 @@
 # Chat Cliente/Servidor com protocolo TCP/IP
 
-## Sobre 📚
-
 Este projeto é um chat para comunicação de diversos usuários através de uma conexão local utilizando o **protocolo TCP/IP**. Ele foi desenvolvido conjuntamente com meu colega **Luiz Guilherme** e conforme o tema do trabalho da faculdade UNIP do curso de Ciência da Computação, que definia a aplicação para comunicação de servidores públicos responsáveis pelos cuidados do Rio Tiête.   
 
 
@@ -54,8 +52,4 @@ A aplicação esta repleta de comentários que vão te auxiliar a entender melho
 Espero que está aplicação possa te auxiliar com novas descobertas e aprendizagem.😊
 ___
 <h5 align = center>Desenvolvido por Joyce Querubino e Luiz Guilherme Machado Lourenço </h5>
-
-<p align= center>
-Desenvolvido por <strong>Joyce Querubino</strong>   -----   Me adicione no <a href="https://www.linkedin.com/in/joyce-querubino/"target="_blank">Linkedin</a>
-</p>
 
